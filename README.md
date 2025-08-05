@@ -62,5 +62,5 @@
 ### 🔧 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,tailwind,sql,vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,figma,vscode,git,github,linux" />
 </p>
