@@ -42,7 +42,7 @@
 ### 📫 How to Reach Me
 - 📧 **Email:** 231210034@nitdelhi.ac.in  
 - 🔗 **LinkedIn:** [Bharat Kumar](https://www.linkedin.com/in/bharat-kumar-ab49b9297)  
-- 🌐 **Portfolio:** [bharat346.github.io/Bharat_346](https://bharat346.vercel.app/)  
+- 🌐 **Portfolio:** [Bharat Kumar Portfolio](https://bharat346.vercel.app/)  
 
 ---
 
